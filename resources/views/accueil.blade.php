@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Auto Repair - Free Bootstrap 4 Template by Colorlib</title>
+    <title>RGS website</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -27,20 +27,20 @@
     <div class="container">
         <div class="row justify-content-between">
             <div class="col-md-3 d-flex align-items-center">
-                <a class="navbar-brand" href="index.html">Autorepair<span>.</span></a>
+                <a class="navbar-brand" href="index.html">RGS<br><span>Regard Global Service</span></a>
             </div>
             <div class="col-md-7">
                 <div class="row">
                     <div class="col">
                         <div class="top-wrap d-flex">
                             <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-location-arrow"></span></div>
-                            <div class="text"><span>Address</span><span>721 New York NY 10016</span></div>
+                            <div class="text"><span>Adresse</span><span>Dakar cité Fadia</span></div>
                         </div>
                     </div>
                     <div class="col">
                         <div class="top-wrap d-flex">
                             <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-location-arrow"></span></div>
-                            <div class="text"><span>Call us</span><span>(+01) 123 456 7890</span></div>
+                            <div class="text"><span>Téléphone</span><span>(+221) 77 410 52 80</span></div>
                         </div>
                     </div>
                     <div class="col-md-3 d-flex justify-content-end align-items-center">
@@ -65,19 +65,19 @@
             <span class="fa fa-bars"></span> Menu
         </button>
         <form action="#" class="searchform order-lg-last">
-            <div class="form-group d-flex">
+            <!--<div class="form-group d-flex">
                 <input type="text" class="form-control pl-3" placeholder="Search">
                 <button type="submit" placeholder="" class="form-control search"><span class="fa fa-search"></span></button>
-            </div>
+            </div>-->
         </form>
         <div class="collapse navbar-collapse" id="ftco-nav">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
-                <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-                <li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
-                <li class="nav-item"><a href="project.html" class="nav-link">Project</a></li>
-                <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
-                <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+                <li class="nav-item active"><a href="index.html" class="nav-link">Accueil</a></li>
+                <li class="nav-item"><a href="about.html" class="nav-link">Dératisation</a></li>
+                <li class="nav-item"><a href="services.html" class="nav-link">Désinsectisation</a></li>
+                <li class="nav-item"><a href="project.html" class="nav-link">Désinfection</a></li>
+                <li class="nav-item"><a href="blog.html" class="nav-link">Les nuisibles</a></li>
+                <li class="nav-item"><a href="contact.html" class="nav-link">Traitement</a></li>
             </ul>
         </div>
     </div>
@@ -85,30 +85,30 @@
 <!-- END nav -->
 <div class="hero-wrap">
     <div class="home-slider owl-carousel">
-        <div class="slider-item" style="background-image:url(images/bg_1.jpg);">
+        <div class="slider-item" style="background-image:url(images/rgsTeam.png);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row no-gutters slider-text align-items-center justify-content-start">
                     <div class="col-md-6 ftco-animate">
                         <div class="text w-100">
-                            <h2>We are best car repair services</h2>
-                            <h1 class="mb-4">Make your car last longer</h1>
-                            <p><a href="#" class="btn btn-primary">Book an appointment</a></p>
+                            <h2>Notre expertise</h2>
+                            <h1 class="mb-4">A votre service</h1>
+                            <p><a href="#" class="btn btn-primary">Nous contacter</a></p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="slider-item" style="background-image:url(images/bg_2.jpg);">
+        <div class="slider-item" style="background-image:url(images/rgsBack.jfif);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row no-gutters slider-text align-items-center justify-content-start">
                     <div class="col-md-6 ftco-animate">
                         <div class="text w-100">
-                            <h2>We care about your car</h2>
-                            <h1 class="mb-4">It's time to come to repair your car</h1>
-                            <p><a href="#" class="btn btn-primary">Book an appointment</a></p>
+                            <h2>Notre expertise</h2>
+                            <h1 class="mb-4">A votre service</h1>
+                            <p><a href="#" class="btn btn-primary">Nous contacter</a></p>
                         </div>
                     </div>
                 </div>
@@ -125,9 +125,9 @@
                     <div class="icon d-flex align-items-center justify-content-center">
                         <i class="flaticon-repair"></i>
                     </div>
-                    <h2 class="mb-0">Are you ready? <span>Let's repair it now!</span></h2>
+                    <h2 class="mb-0">Etes-vous prêts? <span>Nous allons vous débarasser des nuisibles!</span></h2>
                 </div>
-                <a href="#" class="bg-primary btn-custom d-flex align-items-center"><span>Book an Appointment</span></a>
+                <a href="#" class="bg-primary btn-custom d-flex align-items-center"><span>Demander un devis</span></a>
             </div>
         </div>
     </div>
@@ -137,8 +137,8 @@
     <div class="container">
         <div class="row justify-content-center pb-5 mb-3">
             <div class="col-md-7 heading-section text-center ftco-animate">
-                <span class="subheading">We offer Services</span>
-                <h2>Our car services</h2>
+                <span class="subheading">Découvrez</span>
+                <h2>Nos services</h2>
             </div>
         </div>
         <div class="row">
